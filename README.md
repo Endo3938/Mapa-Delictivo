@@ -32,14 +32,12 @@ Si se desea ejecutar la aplicación desde un navegador web en una computadora, s
 De esa forma comenzará a ejecutarse la aplicación, permitiendo abrirse en su navegador predeterminado y así poder empezar a usar la aplicación.
 
 ### Deploy
+Para correr la aplicación debe de borrar la carpeta “android” para evitar problemas al ejecutarse, nosotros dejamos la carpeta para evidencia de que se ejecutó en un dispositivo móvil. 
 
-En cambio, si se desea correr la aplicación desde un dispositivo móvil o desde un emulador de android en un computador instalaremos Android Studio.
+Después de haberlo realizado, si se desea correr la aplicación desde un dispositivo móvil o desde un emulador de android en un computador instalaremos Android Studio.
 
 Si deseas ejecutarlo en tu dispositivo físico tendrás que habilitar el modo desarrollador en tu dispositivo y correr la app desde un IDE como Android Studio o también se puede ejecutar un emulador desde ahí mismo. Sólo tienes que seguir los siguientes pasos:
 
-  
-  
-  
 
 **Descarga de IDE**
 
