@@ -19,13 +19,15 @@ export interface LoginResponseData {
 }
 
 @Injectable({
+
   providedIn: 'root',
+  
 })
 export class LoginService {
   private usuarioLoggeado = false;
 
   //Si se usa en web se tiene que usar storage, si es movil setear a falso
-  useStorage = true;
+  useStorage = false;
 
   connection: Promise<SQLiteObject>;
 
